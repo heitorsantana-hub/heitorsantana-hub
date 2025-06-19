@@ -12,6 +12,7 @@
 <h3>Tech content creator</h3>
 
 [![Tech content creator](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/helpdevsbr/)
+[![Tech content creator](https://skillicons.dev/icons?i=youtube)](https://www.youtube.com/@heitorsantana01)
 
 <!--
 **heitorsantana-hub/heitorsantana-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
