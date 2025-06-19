@@ -10,6 +10,7 @@
 [![My Skills](https://skillicons.dev/icons?i=java,python)](https://skillicons.dev)
 
 <h3>Tech content creator</h3>
+
 [![Tech content creator](https://skillicons.dev/icons?i=instagram)](https://skillicons.dev)
 
 <!--
