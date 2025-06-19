@@ -5,7 +5,7 @@
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python)](https://skillicons.dev)
 
 <!--
 **heitorsantana-hub/heitorsantana-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
