@@ -7,12 +7,17 @@
 
 <h3>My Skills</h3>
 
+##
+
 [![My Skills](https://skillicons.dev/icons?i=java,python)](https://skillicons.dev)
 
 <h3>Tech content creator</h3>
 
 [![Tech content creator](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/helpdevsbr/)
 [![Tech content creator](https://skillicons.dev/icons?i=youtube)](https://www.youtube.com/@heitorsantana01)
+
+
+<a href= "https://www.instagram.com/helpdevsbr/" ><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> </a>
 
 <!--
 **heitorsantana-hub/heitorsantana-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
