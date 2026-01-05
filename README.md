@@ -1,8 +1,10 @@
 ## Heitor Reis de Santana 👨🏻‍💻
 
-<p>I'm 17 years old, passionate about Programming and Technology, and I'm currently studying Systems Analysis and Development. Curious by nature, I'm always looking to learn more — whether it's writing code, getting to know new cultures, or exploring ideas that take me out of my comfort zone. I believe that growing as a professional also involves experiencing the world with an open mind.</p>
+I'm 17 years old and a Data Science and Artificial Intelligence student at SENAI CIMATEC, with a technical background in Systems Analysis and Development. I'm passionate about programming, data, and technology, with experience in backend development, APIs, and databases through academic, personal, and freelance projects.
 
-<p>Speak to me: heitoreis0907@gmail.com</p>
+Curious by nature, I'm always learning — whether it's coding, exploring data-driven solutions, or building technology with real-world impact. I believe professional growth comes from continuous learning, collaboration, and stepping outside my comfort zone.
+
+📫 Contact: heitoreis0907@gmail.com
 
 
 <h3>My Skills</h3>
